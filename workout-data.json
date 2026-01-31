@@ -3,7 +3,36 @@
     "startDate": "2026-01-31",
     "currentWeight": "",
     "targetWeight": "",
-    "workoutsCompleted": "0"
+    "workoutsCompleted": "1"
   },
-  "history": []
+  "history": [
+    {
+      "type": "A",
+      "date": "1/31/2026",
+      "timestamp": 1769895580284,
+      "exercises": [
+        {
+          "name": "Pull-ups / Chin-ups",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "1"
+            },
+            {
+              "label": "Set 2",
+              "value": "1"
+            },
+            {
+              "label": "Set 3",
+              "value": "1"
+            },
+            {
+              "label": "Set 4",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
