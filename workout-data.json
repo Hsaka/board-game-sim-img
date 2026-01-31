@@ -9,6 +9,34 @@
     {
       "type": "A",
       "date": "1/31/2026",
+      "timestamp": 1769895768994,
+      "exercises": [
+        {
+          "name": "Pull-ups / Chin-ups",
+          "sets": [
+            {
+              "label": "Set 1(Prev: 1)",
+              "value": "2"
+            },
+            {
+              "label": "Set 2(Prev: 1)",
+              "value": "2"
+            },
+            {
+              "label": "Set 3(Prev: 1)",
+              "value": "2"
+            },
+            {
+              "label": "Set 4(Prev: 1)",
+              "value": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "A",
+      "date": "1/31/2026",
       "timestamp": 1769895580284,
       "exercises": [
         {
