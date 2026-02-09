@@ -5,5 +5,118 @@
     "targetWeight": "",
     "workoutsCompleted": "0"
   },
-  "history": []
+  "history": [
+    {
+      "type": "A",
+      "date": "2/9/2026",
+      "timestamp": 1770674577246,
+      "exercises": [
+        {
+          "name": "Pull-ups / Chin-ups",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "3"
+            },
+            {
+              "label": "Set 2",
+              "value": "3"
+            },
+            {
+              "label": "Set 3",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "name": "Push-ups",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "10"
+            },
+            {
+              "label": "Set 2",
+              "value": "10"
+            },
+            {
+              "label": "Set 3",
+              "value": "7"
+            }
+          ]
+        },
+        {
+          "name": "Goblet Squats",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "10"
+            },
+            {
+              "label": "Set 2",
+              "value": "10"
+            },
+            {
+              "label": "Set 3",
+              "value": "10"
+            }
+          ],
+          "weight": "15"
+        },
+        {
+          "name": "Plank",
+          "sets": [
+            {
+              "label": "Set 1 (s)",
+              "value": "30"
+            },
+            {
+              "label": "Set 2 (s)",
+              "value": "24"
+            },
+            {
+              "label": "Set 3 (s)",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "name": "Dumbbell Rows",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "10"
+            },
+            {
+              "label": "Set 2",
+              "value": "10"
+            },
+            {
+              "label": "Set 3",
+              "value": "10"
+            }
+          ],
+          "weight": "15"
+        },
+        {
+          "name": "Dumbbell Shoulder Press",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "8"
+            },
+            {
+              "label": "Set 2",
+              "value": "6"
+            },
+            {
+              "label": "Set 3",
+              "value": "6"
+            }
+          ],
+          "weight": "15"
+        }
+      ]
+    }
+  ]
 }
