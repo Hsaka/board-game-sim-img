@@ -3,9 +3,114 @@
     "startDate": "2026-02-09",
     "currentWeight": "145.8",
     "targetWeight": "",
-    "workoutsCompleted": "1"
+    "workoutsCompleted": "2"
   },
   "history": [
+    {
+      "type": "B",
+      "date": "2/12/2026",
+      "timestamp": 1770933275173,
+      "exercises": [
+        {
+          "name": "Chest Supported Rows",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "10"
+            },
+            {
+              "label": "Set 2",
+              "value": "10"
+            },
+            {
+              "label": "Set 3",
+              "value": "10"
+            },
+            {
+              "label": "Set 4",
+              "value": "10"
+            }
+          ],
+          "weight": "15"
+        },
+        {
+          "name": "Dumbbell Floor Press",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "10"
+            },
+            {
+              "label": "Set 2",
+              "value": "10"
+            },
+            {
+              "label": "Set 3",
+              "value": "10"
+            }
+          ],
+          "weight": "15"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "8"
+            },
+            {
+              "label": "Set 2",
+              "value": "8"
+            }
+          ],
+          "weight": "15"
+        },
+        {
+          "name": "Hanging Knee Raises",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "8"
+            },
+            {
+              "label": "Set 2",
+              "value": "8"
+            },
+            {
+              "label": "Set 3",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "name": "Dumbbell Curls",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "8"
+            },
+            {
+              "label": "Set 2",
+              "value": "8"
+            }
+          ],
+          "weight": "15"
+        },
+        {
+          "name": "Pike Push-ups",
+          "sets": [
+            {
+              "label": "Set 1",
+              "value": "8"
+            },
+            {
+              "label": "Set 2",
+              "value": "8"
+            }
+          ]
+        }
+      ]
+    },
     {
       "type": "A",
       "date": "2/9/2026",
