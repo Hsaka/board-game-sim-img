@@ -3,9 +3,81 @@
     "startDate": "2026-02-09",
     "currentWeight": "145.8",
     "targetWeight": "",
-    "workoutsCompleted": "1"
+    "workoutsCompleted": "2"
   },
   "history": [
+    {
+      "type": "A",
+      "date": "3/4/2026",
+      "timestamp": 1772623856519,
+      "exercises": [
+        {
+          "name": "Pull-ups / Chin-ups",
+          "sets": [
+            {
+              "label": "Set 1(Prev: 3)",
+              "value": "3"
+            },
+            {
+              "label": "Set 2(Prev: 3)",
+              "value": "4"
+            },
+            {
+              "label": "Set 3(Prev: 3)",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "name": "Push-ups",
+          "sets": [
+            {
+              "label": "Set 1(Prev: 10)",
+              "value": "10"
+            },
+            {
+              "label": "Set 2(Prev: 10)",
+              "value": "10"
+            },
+            {
+              "label": "Set 3(Prev: 7)",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "name": "Goblet Squats",
+          "sets": [
+            {
+              "label": "Set 1(Prev: 10)",
+              "value": "10"
+            },
+            {
+              "label": "Set 2(Prev: 10)",
+              "value": "10"
+            },
+            {
+              "label": "Set 3(Prev: 10)",
+              "value": "10"
+            }
+          ],
+          "weight": "20"
+        },
+        {
+          "name": "Plank",
+          "sets": [
+            {
+              "label": "Set 1 (s)(Prev: 30)",
+              "value": "30"
+            },
+            {
+              "label": "Set 2 (s)(Prev: 24)",
+              "value": "15"
+            }
+          ]
+        }
+      ]
+    },
     {
       "type": "C",
       "date": "2/16/2026",
